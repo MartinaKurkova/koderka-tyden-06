@@ -7,3 +7,33 @@ body {
 }
 
 /* ---------------------------- */
+
+.pes {
+	fill: pink;
+	stroke: black;
+	stroke-width: 10px;
+}
+
+.pes:hover {
+	fill: black;
+}
+
+.button-primary {
+	background-color: red;
+	color: white;
+}
+
+.button-primary span {
+	background-color: currentColor;
+}
+
+.listek:hover .list {
+	fill: greenyellow;
+	opacity: 1;
+}
+
+.listek:hover .stonek {
+	fill: green;
+	opacity: 1;
+}
+
